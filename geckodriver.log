@@ -1,0 +1,236 @@
+1660139314170	geckodriver	INFO	Listening on 127.0.0.1:54746
+1660139317232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileu7e11H"
+1660139343331	geckodriver	INFO	Listening on 127.0.0.1:54790
+1660139346398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofiles8NVqC"
+1660139346824	Marionette	INFO	Marionette enabled
+1660139346832	Marionette	INFO	Listening on port 54800
+WebDriver BiDi listening on ws://localhost:54791
+Read port: 54800
+1660139346931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofiles8NVqC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54791/devtools/browser/530c64f7-bcd4-497b-8f36-0d865e02838e
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139349612	Marionette	INFO	Stopped listening on port 54800
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1660139364704	geckodriver	INFO	Listening on 127.0.0.1:54841
+1660139367765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileoDNDHO"
+1660139368211	Marionette	INFO	Marionette enabled
+1660139368219	Marionette	INFO	Listening on port 54851
+Read port: 54851
+WebDriver BiDi listening on ws://localhost:54842
+1660139368315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileoDNDHO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54842/devtools/browser/2aca1f00-86c0-4150-acf7-68f7df66c711
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139371248	Marionette	INFO	Stopped listening on port 54851
+1660139395512	geckodriver	INFO	Listening on 127.0.0.1:54895
+1660139398569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilebw3adL"
+1660139398995	Marionette	INFO	Marionette enabled
+1660139399004	Marionette	INFO	Listening on port 54905
+WebDriver BiDi listening on ws://localhost:54896
+Read port: 54905
+1660139399104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilebw3adL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54896/devtools/browser/0af0982a-2804-4d27-8961-98cbaf1a733b
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139401643	Marionette	INFO	Stopped listening on port 54905
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1660139436857	geckodriver	INFO	Listening on 127.0.0.1:54972
+1660139439896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileOEwGLF"
+1660139440321	Marionette	INFO	Marionette enabled
+1660139440330	Marionette	INFO	Listening on port 54982
+WebDriver BiDi listening on ws://localhost:54973
+Read port: 54982
+1660139440430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileOEwGLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54973/devtools/browser/da4085af-4de8-40e5-90db-2b54fc9333ac
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139443118	Marionette	INFO	Stopped listening on port 54982
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1660139455752	geckodriver	INFO	Listening on 127.0.0.1:55028
+1660139458820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilexOxhQx"
+1660139459261	Marionette	INFO	Marionette enabled
+1660139459269	Marionette	INFO	Listening on port 55038
+WebDriver BiDi listening on ws://localhost:55029
+Read port: 55038
+1660139459369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilexOxhQx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55029/devtools/browser/dfb4bfb1-9730-44d6-9186-a9ebe83c618f
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139461985	Marionette	INFO	Stopped listening on port 55038
+[Parent 24744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 69: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1660139470918	geckodriver	INFO	Listening on 127.0.0.1:55079
+1660139473967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile9fwFVU"
+1660139474408	Marionette	INFO	Marionette enabled
+1660139474417	Marionette	INFO	Listening on port 55089
+Read port: 55089
+WebDriver BiDi listening on ws://localhost:55080
+1660139474515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile9fwFVU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55080/devtools/browser/a36b49ad-8cc6-4391-8aaa-d206b7bcf498
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139485025	Marionette	INFO	Stopped listening on port 55089
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660139490245	geckodriver	INFO	Listening on 127.0.0.1:55136
+1660139493302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileyowYsH"
+1660139493724	Marionette	INFO	Marionette enabled
+1660139493732	Marionette	INFO	Listening on port 55146
+WebDriver BiDi listening on ws://localhost:55137
+Read port: 55146
+1660139493827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileyowYsH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55137/devtools/browser/1cb7db60-377d-47ab-8d06-8ea297972276
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139499302	Marionette	INFO	Stopped listening on port 55146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660139511230	geckodriver	INFO	Listening on 127.0.0.1:55194
+1660139514300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileTHvVaE"
+1660139514727	Marionette	INFO	Marionette enabled
+1660139514736	Marionette	INFO	Listening on port 55204
+WebDriver BiDi listening on ws://localhost:55195
+Read port: 55204
+1660139514835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileTHvVaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55195/devtools/browser/b583705c-7d02-48f8-91b2-5061fad7c01e
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660139519918	Marionette	INFO	Stopped listening on port 55204
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660140078961	geckodriver	INFO	Listening on 127.0.0.1:55442
+1660140081988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilekFffR0"
+1660140082429	Marionette	INFO	Marionette enabled
+1660140082437	Marionette	INFO	Listening on port 55454
+WebDriver BiDi listening on ws://localhost:55443
+Read port: 55454
+1660140082537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilekFffR0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55443/devtools/browser/7ad0416e-a743-4e5d-8515-f2b03eea5e80
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140540629	Marionette	INFO	Stopped listening on port 55454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ocal\\Temp\\rust_mozprofile7BGvuk"
+1660140231897	Marionette	INFO	Marionette enabled
+1660140231906	Marionette	INFO	Listening on port 55593
+WebDriver BiDi listening on ws://localhost:55583
+Read port: 55593
+1660140232003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile7BGvuk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55583/devtools/browser/3bf7defc-608e-4825-84ac-28a7f78a8b51
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140249493	Marionette	INFO	Stopped listening on port 55593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660140400946	geckodriver	INFO	Listening on 127.0.0.1:55955
+1660140404000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileiePUCj"
+1660140404519	Marionette	INFO	Marionette enabled
+1660140404530	Marionette	INFO	Listening on port 55970
+WebDriver BiDi listening on ws://localhost:55956
+Read port: 55970
+1660140404645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileiePUCj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55956/devtools/browser/933cd035-dfd0-4692-94d1-339339603c82
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140540642	Marionette	INFO	Stopped listening on port 55970
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileSGTgDY"
+1660140532867	Marionette	INFO	Marionette enabled
+1660140532879	Marionette	INFO	Listening on port 56189
+WebDriver BiDi listening on ws://localhost:56178
+Read port: 56189
+1660140532994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileSGTgDY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56178/devtools/browser/0798345b-3ebd-430b-9e65-35887c1d2561
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140540642	Marionette	INFO	Stopped listening on port 56189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660140557547	geckodriver	INFO	Listening on 127.0.0.1:56258
+1660140560581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile8pJjyS"
+1660140561024	Marionette	INFO	Marionette enabled
+1660140561033	Marionette	INFO	Listening on port 56269
+WebDriver BiDi listening on ws://localhost:56259
+Read port: 56269
+1660140561137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile8pJjyS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56259/devtools/browser/7fbc37ac-b73c-4001-81b7-9b5a5fd8333b
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660140633330	Marionette	INFO	Stopped listening on port 56269
+1660140638011	geckodriver	INFO	Listening on 127.0.0.1:56405
+1660140641026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile5Z2jeu"
+1660140641570	Marionette	INFO	Marionette enabled
+1660140641581	Marionette	INFO	Listening on port 56418
+Read port: 56418
+WebDriver BiDi listening on ws://localhost:56406
+1660140641720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofile5Z2jeu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56406/devtools/browser/0245328c-6228-4f07-9dd9-ad81767c975e
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140672959	Marionette	INFO	Stopped listening on port 56418
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660140681308	geckodriver	INFO	Listening on 127.0.0.1:56505
+1660140684332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56506" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilerUCMk1"
+1660140684862	Marionette	INFO	Marionette enabled
+1660140684873	Marionette	INFO	Listening on port 56516
+WebDriver BiDi listening on ws://localhost:56506
+Read port: 56516
+1660140685014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilerUCMk1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56506/devtools/browser/062f13db-4e8f-4510-b563-e4f70ba6833c
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660140750627	Marionette	INFO	Stopped listening on port 56516
+1660140765254	geckodriver	INFO	Listening on 127.0.0.1:57247
+1660140768283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilephgIuz"
+1660140768797	Marionette	INFO	Marionette enabled
+1660140768807	Marionette	INFO	Listening on port 57258
+WebDriver BiDi listening on ws://localhost:57248
+Read port: 57258
+1660140768943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilephgIuz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57248/devtools/browser/75fff826-50b8-4f37-a9aa-4c3dc596d7d3
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660140777534	Marionette	INFO	Stopped listening on port 57258
+1660140831828	geckodriver	INFO	Listening on 127.0.0.1:57387
+1660140834873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilem9BlKK"
+1660140835387	Marionette	INFO	Marionette enabled
+1660140835398	Marionette	INFO	Listening on port 57400
+WebDriver BiDi listening on ws://localhost:57388
+Read port: 57400
+1660140835528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofilem9BlKK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57388/devtools/browser/b7ae5876-16ac-405b-9167-aeef96279336
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660141008845	Marionette	INFO	Stopped listening on port 57400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660141010012	geckodriver	INFO	Listening on 127.0.0.1:57610
+1660141013060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileBtSd7I"
+1660141013624	Marionette	INFO	Marionette enabled
+1660141013637	Marionette	INFO	Listening on port 57626
+WebDriver BiDi listening on ws://localhost:57611
+Read port: 57626
+1660141013907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileBtSd7I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57611/devtools/browser/c82cc34b-3f3f-48b4-b3ac-26237cfcaeee
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660141542122	Marionette	INFO	Stopped listening on port 57626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileEDIXPD"
+1660141384046	Marionette	INFO	Marionette enabled
+1660141384059	Marionette	INFO	Listening on port 64437
+WebDriver BiDi listening on ws://localhost:64428
+Read port: 64437
+1660141384201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\armanfar\\AppData\\Local\\Temp\\rust_mozprofileEDIXPD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64428/devtools/browser/96b20c56-ddd6-433d-ad9f-c14f6feefbce
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+1660141542128	Marionette	INFO	Stopped listening on port 64437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
